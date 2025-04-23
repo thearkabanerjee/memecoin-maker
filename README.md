@@ -1,6 +1,6 @@
 # Solana Memecoin Maker
 
-Solana memecoin maker. Video guide: https://www.youtube.com/watch?v=HGX831jDcNw
+Solana memecoin maker.
 
 ### Installation
 Clone repository. 
