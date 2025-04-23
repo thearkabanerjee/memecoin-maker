@@ -1,6 +1,6 @@
 # Solana Memecoin Maker
 
-Solana memecoin maker. for anyone to make their own memecoin on the Solana Blockchain.
+Solana memecoin maker. For anyone to make their own memecoin on the Solana Blockchain.
 
 ### Installation
 Clone repository. 
